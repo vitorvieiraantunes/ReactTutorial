@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vitorvieiraantunes/ReactTutorial/static/css/main.3fa7586b.chunk.css",
+    "main.js": "/vitorvieiraantunes/ReactTutorial/static/js/main.8d96d969.chunk.js",
+    "main.js.map": "/vitorvieiraantunes/ReactTutorial/static/js/main.8d96d969.chunk.js.map",
+    "runtime-main.js": "/vitorvieiraantunes/ReactTutorial/static/js/runtime-main.4f6ab9f3.js",
+    "runtime-main.js.map": "/vitorvieiraantunes/ReactTutorial/static/js/runtime-main.4f6ab9f3.js.map",
+    "static/js/2.69e85535.chunk.js": "/vitorvieiraantunes/ReactTutorial/static/js/2.69e85535.chunk.js",
+    "static/js/2.69e85535.chunk.js.map": "/vitorvieiraantunes/ReactTutorial/static/js/2.69e85535.chunk.js.map",
+    "index.html": "/vitorvieiraantunes/ReactTutorial/index.html",
+    "precache-manifest.2943fc6245f554d7bddfb1081f9c2796.js": "/vitorvieiraantunes/ReactTutorial/precache-manifest.2943fc6245f554d7bddfb1081f9c2796.js",
+    "service-worker.js": "/vitorvieiraantunes/ReactTutorial/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "/vitorvieiraantunes/ReactTutorial/static/css/main.3fa7586b.chunk.css.map",
+    "static/js/2.69e85535.chunk.js.LICENSE.txt": "/vitorvieiraantunes/ReactTutorial/static/js/2.69e85535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f6ab9f3.js",
+    "static/js/2.69e85535.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.8d96d969.chunk.js"
+  ]
+}
